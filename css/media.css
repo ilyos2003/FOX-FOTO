@@ -1,0 +1,144 @@
+@media (max-width: 1140px) {
+   .fotre{
+       margin-left: 15px;
+   }
+    
+}
+@media (max-width: 1389px) {
+    .hopee{
+     top: -150px;
+    right: 80px;
+    }
+}
+
+@media (max-width: 1255px){
+    .hopee {
+        top: -116px;
+        right: 80px;
+        width: 120px;
+    }
+}
+
+@media (max-width: 988px){
+    .hopee {
+        top: -70px;
+        right: 80px;
+        width: 90px;
+    }
+}
+
+
+
+@media (max-width: 900px){
+    .silder__img{
+        display: none;
+    } 
+    .slider__text h1{
+        text-align: center;
+    }
+    .slider__text a{
+    margin: auto;
+    margin-top: 16px;
+    }
+   
+    .active{
+        transform: translateX(0%);
+    }
+}
+    
+
+@media (max-width: 812px) {
+   
+    .ttr { 
+        font-size: 15px; 
+    }
+    .goop {
+         font-size: 12px; 
+    }
+}
+
+@media (max-width: 747px) {
+    .flex-con{
+        flex-direction: column;
+    }
+    
+    .fotre{
+        width: 100%;
+        margin: 0;
+       
+    }
+    
+    .doop{
+        margin: 0;
+        width: 100%;
+         margin-top: 15px;
+    }
+}
+
+@media (max-width: 677px){
+     .zox__13{
+        width: 240px;
+    }
+}
+
+@media (max-width: 650px) {
+    .logo{
+        width: 100px;
+    }
+    
+    .vrt{
+        font-size: 15px;
+    }
+    
+    .vret{
+        font-size: 15px; 
+    }
+    
+    .pol{
+        font-size: 15px;
+    }
+    .uup{
+        font-size: 15px;
+    }
+    .luuk{
+        display: none;
+    }
+    .menu-btn{
+        display: flex;
+    }
+    
+    .header__menu{
+        display: none;
+    }
+    .menu{
+        height: 8px;
+        
+    }
+   
+}
+
+@media (max-width: 587px){
+    .hopee {
+        top: -47px;
+        right: 80px;
+        width: 52px;
+    }
+}
+
+@media (max-width: 479px){
+    .product-block{
+       justify-content: center;
+      
+    }
+    .product h4{
+        text-align: center;
+        
+    }
+}
+
+@media (max-width: 530px){
+    .maps_content{
+        width: 100%;
+    }
+}
+

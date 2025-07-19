@@ -1,0 +1,604 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body{
+    min-width: 456px;
+}
+
+.conterner{
+    max-width: 1140px;
+    width: 100%;
+    margin: auto;
+  
+    
+    
+}
+
+.contak{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.haeder__contak{
+    display: flex;
+    align-items: center;
+    
+    
+}
+
+.koop{
+    margin-left: 34px;
+}
+
+.vrt{
+    font-size: 30px;
+    color: black;
+}
+.vret{
+    font-size: 20px;
+    color: black;
+}
+
+.pol{
+    font-size: 40px; 
+    color: #3E6E97;
+}
+
+.uup{
+    font-size: 40px; 
+    color: #3E6E97;
+    margin-left: 22px;
+}
+
+.luuk{
+    display: flex;
+}
+
+
+.menu{
+    background:#00AFCC;
+   
+}
+.header__menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    
+}
+
+.hoop{
+    display: flex;
+    
+}
+
+
+.goop{
+    color: #fff;
+    padding: 14px 0px;
+    margin-right: 27px;
+    display: flex;
+    font-size: 24px;
+}
+
+.ttr{
+    color: #fff;
+    font-size: 24px;
+    border-left: 2px solid #fff;
+    padding: 12px 0px;
+    padding-left: 12px;
+}
+
+
+.ruut{
+    background: #73E5FF;
+    padding-top: 35px;
+    padding-bottom: 43px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.ruut h2{
+  
+    font-size: 25px;
+    margin-bottom: 14px;
+}
+
+.ruut p{
+font-size: 20px;
+max-width: 1016px;
+width: 100%; 
+   
+}
+
+.product-block{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.zox__13{
+    width: 339px;
+}
+
+.product h4{
+    font-size: 30px;
+    margin-top: 49px;
+    margin-bottom: 62px;
+}
+  
+.product-block h3{
+    font-size: 40px;
+   
+}
+
+.product-block h5{
+    font-size: 35px;
+   
+}
+
+.product-block ul li a{
+    color: #00636D;
+    font-size: 18px;  
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.product-block img{
+    display: flex;
+    margin-bottom: 25px;
+}
+
+
+
+.www__5 {
+   margin-top: 25px;
+ 
+}
+
+
+.maps{
+    position: relative;
+}
+.maps_block{
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+
+.maps_content{
+   background: rgba(255, 255, 255, 0.692);
+    width: 449px; 
+    padding: 22px 40px 30px 30px;
+    margin-top: 16px;
+    margin-right: 16px;
+}
+
+.uup {
+    font-size: 40px !important;
+    color: black !important;
+    padding-left: 22px;
+    margin: 0 !important;
+    padding: 0;
+}
+
+.fff__41 {
+    color: black ;
+    font-size: 22px;
+}
+
+.jjj{
+    color: black;
+    font-size: 20px;
+    margin-left: 15px;
+    
+}
+
+.ggg{
+    color: black;
+    font-size: 20px;   
+}
+
+.ddd{
+    color: black;
+    font-size: 20px; 
+    margin-top: 15px;
+}
+
+.zzz{
+    color: black;
+    font-size: 20px;  
+}
+
+.text{
+    display: flex;
+     margin-top: 40px;
+     margin-bottom: 10px;
+}
+
+.hopi  i{
+ margin-right: 15px;
+}
+
+.oopo{
+font-size: 20px;
+color:#00636D;
+
+}
+
+.hopi{
+    margin-top: 20px;
+}
+
+.turva{
+    margin-right: 16px;
+    padding-top: 40px;
+    padding-bottom: 26px;
+}
+.turva p{
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.turva h5{
+    margin-top: 20px;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+
+.forme{
+    background: url(../images/bg.png) no-repeat center/cover;
+    margin-top: 51px;
+    padding-bottom: 24px;
+    padding-top: 25px;
+    
+    
+}
+
+
+.lusi__11{
+    display: flex;
+    flex-direction: column;
+ 
+    
+     
+}
+
+.fotre h6{
+    color: #fff;
+    font-size: 40px;
+    margin-bottom: 10px;
+     
+    
+}
+
+
+.lusi__11 input{
+    margin-bottom: 10px;
+    font-size: 16px;
+    height: 42px;
+    padding-left: 17px;
+    
+}
+
+.good{
+    width: 291px;
+    height: 61px;
+    border-radius: 8px;
+    background: #FF7D00;
+    margin-top: 10px;
+    color: #fff;
+    font-size: 24px;
+}
+
+.lusi__11 textarea{
+    font-size: 16px;
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    
+}
+
+.doop{
+    background: #fff;
+   width: 50%;
+    margin-top: 16px;
+    margin-right: 16px;
+   padding-top: 16px;
+   padding-bottom: 60px;
+   padding-left: 20px;
+}
+
+.doop h6{
+    font-size: 40px;
+    color: #00636D;
+    margin-top: 16px; 
+    padding-bottom: 20px;
+    
+}
+
+.doop  li a{
+    color: black;
+    font-size: 24px;
+   
+    
+}
+
+.doop i{
+    margin-right: 10px;
+    padding-bottom: 16px;
+}
+
+.aaali{
+  display: flex;   
+    
+ } 
+ 
+ .aaali li a{
+     color: #3E6E97;
+     font-size: 50px;
+     margin-right: 10px;
+ }
+ 
+ .flex-con{
+     display: flex;
+     justify-content: space-between;
+ }
+ 
+ 
+ 
+ .der__1{
+     color: black;
+     font-size: 36px;
+ }
+ 
+ .der__2{
+     color: #3E6E96;
+     font-size: 36px;
+     
+ }
+ 
+ .der__3{
+    color: #370475;
+    font-size: 36px;
+    
+}
+
+.der__4{
+    color: #E37C1D;
+    font-size: 36px;
+    
+}
+
+ .fotre{
+     width: 599px;
+     margin-right: 85px;
+ }
+ 
+  .doop{
+      width: 672px;
+  } 
+  
+  
+  .sserr {
+    background: #E4E4E4;
+    padding-top: 36px;
+    padding-bottom: 46px;
+  }
+  
+  .sserr p{
+     margin-top: 10px;
+     margin-bottom: 20px;
+    
+      
+  }
+  
+  .detop {
+      display: flex;
+  }
+
+  .detop  li a{
+      font-size: 24px;
+      color: #00636D;
+      margin-right: 20px;
+      
+  }
+  
+/*  sledir START  */
+.slider{
+    background: url(../images/bg.png) no-repeat center/cover;
+    padding-top: 23px;
+    padding-bottom: 20px;
+}
+
+.nonee{
+    justify-content: space-between;
+    display: flex;
+}
+
+.nonee h1{
+    font-size: 52px;
+    color: #fff;
+}
+
+.nonee a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 61px;
+    background: #FF7D00;
+    color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    margin-top: 16px;
+}
+
+.nonee a:hover {
+    background:  rgba(252, 145, 42, 1);
+    
+}
+ .ruut {
+      position: relative;
+ }
+.hopee {
+    position: absolute;
+   top: -150px;
+   right: 150px;
+}
+
+.heloo i{
+    font-size: 30px;
+    color: rgba(0, 175, 204, 1);
+    margin-right: 10px;
+}
+
+.iipi{
+    background: transparent;
+    border: none;
+    
+}
+
+
+.menu-btn{
+    display: none;
+}
+
+.menu__headre-box{
+    background: rgb(255, 255, 255) !important
+    ;
+    position: fixed;
+    z-index: 100;
+    height: 100%;
+    transform: translateX(-100%);
+    transition: 0.5s;
+    
+}
+
+.vvvvo{
+    background: #fff;
+}
+
+.vvvvo a{
+    color: #000;
+    font-size: 16px;
+    padding: 21px 16px;
+    display: flex;
+    
+}
+
+.iipi i{
+    font-size: 30px;
+    color: rgba(0, 175, 204, 1); 
+   
+}
+
+.fffa{
+    width: 100%;
+    padding: 16px;
+    background: #00AFCC;
+    display: flex;
+    margin-top: 2px;
+    font-size: 14px;
+    color: #fff;
+    
+}
+
+.jjjkkk{
+    color: #fff;
+    width: 121px;
+    height: 41px;
+    background: #00AFCC;
+    font-size: 14px;
+    margin-top: 20px;
+  display: flex;
+  justify-content: center;
+   align-items: center;
+   
+}
+
+.yuuy{
+    display: flex;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1140px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+
+
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+
+/*  sledir START  */
+
